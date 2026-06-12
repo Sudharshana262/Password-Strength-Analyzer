@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9F4F&center=true&vCenter=true&width=500&height=60&lines=🔐+Password+Strength+Analyzer;Python+3.8%2B;License+MIT;Status+Active" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9F4F&center=true&vCenter=true&width=500&height=60&lines=🔐+Password+Strength+Analyzer;Cybersecurity+Tool;Python+Project" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Password Strength Analyzer</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+</p>
+
+<h2 align="center">🔐 Password Strength Analyzer</h2>
 
 <p align="center">
   A powerful cybersecurity tool that analyzes password strength by checking multiple security criteria.
@@ -16,8 +22,9 @@
 
 | Feature | Description | Status |
 |---------|-------------|--------|
-| Length Check | Validates minimum password length | ✅ |
-| Uppercase Letters | Checks for uppercase characters | ✅ |
-| Lowercase Letters | Checks for lowercase characters | ✅ |
-| Numbers | Ensures numeric characters present | ✅ |
-| Special Characters | Validates special character usage | ✅ |
+| 🔐 Length Check | Validates minimum password length | ✅ |
+| 🔠 Uppercase Letters | Checks for uppercase characters | ✅ |
+| 🔡 Lowercase Letters | Checks for lowercase characters | ✅ |
+| 🔢 Numbers | Ensures numeric characters present | ✅ |
+| 🎯 Special Characters | Validates special character usage | ✅ |
+| 📊 Strength Score | Provides overall strength rating | ✅ |
